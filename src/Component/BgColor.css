@@ -1,0 +1,38 @@
+.bg-red {
+    background: #c31432;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #240b36, #c31432);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #240b36, #c31432);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.bg-green {
+    background: #11998e;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #38ef7d, #11998e);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #38ef7d, #11998e);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.bg-purple {
+    background: #41295a;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #2F0743, #41295a);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #2F0743, #41295a);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.bg-blue {
+    background: #0f0c29;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #24243e, #302b63, #0f0c29);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #24243e, #302b63, #0f0c29);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
